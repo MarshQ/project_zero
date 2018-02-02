@@ -1,10 +1,17 @@
-body{
-    background: image("../pictures/background.jpg");
-}
 
-.nav {
+.content {
+    position:absolute;
+    /* background: red; */
+    width: 100%;
+    height: 80%;
+}
+.side-bar {
+    float:left;
     position: relative;
-    right: 5px;
+    left: 95%;
+    top: 20%;
+    /* background: blue; */
+
 }
 
 .photo {
@@ -19,6 +26,38 @@ body{
     width: 35px;
     margin: 15px 20px 15px 5px;
     right: 5px;
+}
+
+.pickles {
+    float: left;
+    position: relative;
+    top: 20%;
+    left: 15%;
+    /* background: green; */
+    height: 150px;
+    width: 200px;
+    /* margin-top: 20%;
+    margin-left: 15%; */
+}
+
+.join{
+    font-family: fantasy;
+    font-weight: bolder;
+    font-size: 42pt;
+    color: white;
+}
+
+.form {
+    height: 50px;
+    width: 300px;
+    margin: 0px 10px 0px 10px;
+}
+
+.info {
+    font-family: fantasy;
+    font-weight: bold;
+    font-size: 20pt;
+    color: white;
 }
 /* 
 .forum {
