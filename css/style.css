@@ -1,0 +1,49 @@
+body{
+    background: image("../pictures/background.jpg");
+}
+
+.nav {
+    position: relative;
+    right: 5px;
+}
+
+.photo {
+    height: 75px;
+    width: 75px;
+    margin: 15px 20px 15px 5px;
+}
+
+.nav-link {
+    position: relative;
+    height: 35px;
+    width: 35px;
+    margin: 15px 20px 15px 5px;
+    right: 5px;
+}
+/* 
+.forum {
+    height: 35px;
+    width: 35px;
+}
+
+.newsletter {
+    height: 35px;
+    width: 35px;
+}
+
+.contact_us {
+    height: 35px;
+    width: 35px;
+}
+
+.about {
+    height: 35px;
+    width: 35px;
+}
+
+.sites {
+    height: 35px;
+    width: 35px;
+    margin: 15px 20px 15px 5px; */
+
+}
