@@ -1,3 +1,6 @@
+body {
+    background: url("../Pictures/Background.jpg");
+}
 
 .content {
     position:absolute;
